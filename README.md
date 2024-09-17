@@ -1,0 +1,2 @@
+# AcademicData_Multi_Class_Classification_model
+Multi_Layer_Perceptron(MLP) for Multi_Class_Classification_model building using Tensorflow
